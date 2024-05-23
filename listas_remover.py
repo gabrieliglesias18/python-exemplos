@@ -8,6 +8,5 @@ alunos.pop(2)
 print(f"Lista de alunos: {alunos}")
 # Função del
 del alunos[3]
-print(f"Lista de alunos: {alunos}")
-# Método clear()
-print(f"Lista de alunos: {alunos}")
+print(f"Lista de alunos: {alunos}")print(f"Lista de alunos: {alunos}")
+# Método remove()
